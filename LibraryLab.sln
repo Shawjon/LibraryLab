@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryLab", "LibraryLab\LibraryLab.csproj", "{363490B5-FF53-45B7-9A29-5A5B596419AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363490B5-FF53-45B7-9A29-5A5B596419AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363490B5-FF53-45B7-9A29-5A5B596419AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363490B5-FF53-45B7-9A29-5A5B596419AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363490B5-FF53-45B7-9A29-5A5B596419AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD0DBF9-8B27-4FF5-80BC-D7DD7486594F}
+	EndGlobalSection
+EndGlobal
